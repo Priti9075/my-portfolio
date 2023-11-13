@@ -25,8 +25,8 @@ function Projects() {
               isBlog={false}
               title="OneForAll"
               description="Developed an online platform with speech interpretation, text-to-speech, and a comprehensive resource hub for individuals with speech impairments and hearing loss. Integrated virtual picture boards for train announcements and advocated inclusive communication in public spaces"
-              ghLink="https://github.com/Priti9075/OneForAll"
-              demoLink="https://chatify-49.web.app/"
+              ghLink="https://github.com/Priti9075/OneForAll.git"
+              demoLink=" https://priti9075.github.io/OneForAll/"
             />
           </Col>
 
@@ -36,7 +36,7 @@ function Projects() {
               isBlog={false}
               title="Automatic-Accident-Prevention"
               description="Enhanced road safety with synchronized motor-controlled road blocker activation and automatic Zebra Crossing deployment. Integrated with the traffic system for safe pedestrian passage and efficient traffic flow"
-              ghLink="https://github.com/Priti9075/automatic-accident-prevation-system"
+              ghLink="https://github.com/Priti9075/automatic-accident-prevation-system.git"
             />
           </Col>
         </Row>
